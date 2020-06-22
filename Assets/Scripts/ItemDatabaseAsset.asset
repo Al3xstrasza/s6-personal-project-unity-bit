@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f623130c8cc019479266e568f0451fd, type: 3}
+  m_Name: ItemDatabaseAsset
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 23f7e11d07c77424e8636a7a1dd77b3e, type: 3}
+    - {fileID: 21300000, guid: 1a5366942eae00649bd69e65e9ba3b8b, type: 3}
+    - {fileID: 21300000, guid: e207b7df259e1aa45b52c5a0b28cfcdc, type: 3}
+    - {fileID: 21300000, guid: c22658b5068774348a6a5a4aaebb33d3, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataSet
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[ItemData,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 2|ItemData, Assembly-CSharp
+    - Name: itemName
+      Entry: 1
+      Data: Charm of the berserker
+    - Name: stackable
+      Entry: 5
+      Data: false
+    - Name: level
+      Entry: 3
+      Data: 10
+    - Name: baseStatData
+      Entry: 1
+      Data: <#55ff55>+32% Attack Damage;+57 Maximum Health;+21 Strength</color>;<#ff5555>-24%
+        Attack Speed;-19% Movement Speed;-15 Dexterity</color>
+    - Name: itemDescription
+      Entry: 1
+      Data: A rare artifact that improves ones power at the cost of becoming more
+        sluggish.;Forged in the great fire of Kargunak at the cost of many lives.
+    - Name: sellValue
+      Entry: 3
+      Data: 55
+    - Name: itemSprite
+      Entry: 10
+      Data: 0
+    - Name: type
+      Entry: 3
+      Data: 5
+    - Name: rarity
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 3|ItemData, Assembly-CSharp
+    - Name: itemName
+      Entry: 1
+      Data: Some Item
+    - Name: stackable
+      Entry: 5
+      Data: false
+    - Name: level
+      Entry: 3
+      Data: 10
+    - Name: baseStatData
+      Entry: 6
+      Data: 
+    - Name: itemDescription
+      Entry: 1
+      Data: Chest piece
+    - Name: sellValue
+      Entry: 3
+      Data: 100
+    - Name: itemSprite
+      Entry: 10
+      Data: 1
+    - Name: type
+      Entry: 3
+      Data: 0
+    - Name: rarity
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 4|ItemData, Assembly-CSharp
+    - Name: itemName
+      Entry: 1
+      Data: Some Crafting Material
+    - Name: stackable
+      Entry: 5
+      Data: true
+    - Name: level
+      Entry: 3
+      Data: 1
+    - Name: baseStatData
+      Entry: 6
+      Data: 
+    - Name: itemDescription
+      Entry: 1
+      Data: An Epic crafting material piece
+    - Name: sellValue
+      Entry: 3
+      Data: 10
+    - Name: itemSprite
+      Entry: 10
+      Data: 2
+    - Name: type
+      Entry: 3
+      Data: 2
+    - Name: rarity
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 5|ItemData, Assembly-CSharp
+    - Name: itemName
+      Entry: 1
+      Data: Weapon
+    - Name: stackable
+      Entry: 5
+      Data: false
+    - Name: level
+      Entry: 3
+      Data: 1
+    - Name: baseStatData
+      Entry: 6
+      Data: 
+    - Name: itemDescription
+      Entry: 1
+      Data: A standard sword
+    - Name: sellValue
+      Entry: 3
+      Data: 5
+    - Name: itemSprite
+      Entry: 10
+      Data: 3
+    - Name: type
+      Entry: 3
+      Data: 6
+    - Name: rarity
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
